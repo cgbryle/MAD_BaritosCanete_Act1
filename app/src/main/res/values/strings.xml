@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MAD_BaritosCanete_Act1</string>
+    <string name="change_size">Change size</string>
+    <string name="change_font_size">Change font size</string>
 </resources>
